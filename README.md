@@ -22,9 +22,9 @@ This file contains all the objects referenced in the video and document.
   * This contains all the components, pages, records and PeopleCode used in the demonstration.
   * The target database must be minimal 8.58 PeopleTools
 
-* X_PT3_E026_SPARKY_858 (folder)  
-* X_PT3_E026_SPARKY_858.zip
+* X_PT3_E026_SPARKY_858 (PeopleTools Project folder)  
+* X_PT3_E026_SPARKY_858.zip (Zipped PeopleTools Project folder)  
 
-* X_PT3_E026_SPARKY_859 (Folder)
-* X_PT3_E026_SPARKY_859.zip
+* X_PT3_E026_SPARKY_859 (PeopleTools Project folder)  
+* X_PT3_E026_SPARKY_859.zip (Zipped PeopleTools Project folder)  
 
