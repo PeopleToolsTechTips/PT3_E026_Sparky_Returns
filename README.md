@@ -16,15 +16,13 @@ As of 5/30/2022, these are projects for PeopleTools 8.58 & 8.59.   Download the 
 * randy@peopletoolstechtips.com  
 * PeopleToolsTechTips@Gmail.com
 
-This file contains all the objects referenced in the video and document.
+This file contains all the objects referenced in the video and document. 
 
-## PeopleTools Projects 8.58 & 8.59
-  * This contains all the components, pages, records and PeopleCode used in the demonstration.
-  * The target database must be minimal 8.58 PeopleTools
-
-* X_PT3_E026_SPARKY_858 (PeopleTools Project folder)  
-* X_PT3_E026_SPARKY_858.zip (Zipped PeopleTools Project folder)  
-
+## PeopleTools Projects 8.59
 * X_PT3_E026_SPARKY_859 (PeopleTools Project folder)  
 * X_PT3_E026_SPARKY_859.zip (Zipped PeopleTools Project folder)  
+
+## PeopleTools Projects 8.58
+* X_PT3_E026_SPARKY_858 (PeopleTools Project folder)  
+* X_PT3_E026_SPARKY_858.zip (Zipped PeopleTools Project folder)  
 
