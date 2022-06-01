@@ -8,9 +8,9 @@ Simply put, the refresh button is replaced with Sparky.
 
 As of 5/30/2022, these are projects for PeopleTools 8.58 & 8.59.   Download the correct version since the 8.59 Process Monitor has been reworked a little and is different from the 8.58 version.
 
-### Web Posting: https://peopletoolstechtips.com/ TBD
+### Web Posting: https://peopletoolstechtips.com/the-return-of-sparky
 
-### YouTube demo: https://www.youtube.com/ TBD
+### YouTube demo: ttps://youtu.be/lOf66QRCI7Q
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
