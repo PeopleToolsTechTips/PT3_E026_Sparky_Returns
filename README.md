@@ -10,7 +10,7 @@ As of 5/30/2022, these are projects for PeopleTools 8.58 & 8.59.   Download the 
 
 ### Web Posting: https://peopletoolstechtips.com/the-return-of-sparky
 
-### YouTube demo: ttps://youtu.be/lOf66QRCI7Q
+### YouTube demo: https://youtu.be/lOf66QRCI7Q
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
