@@ -18,6 +18,10 @@ As of 5/30/2022, these are projects for PeopleTools 8.58 & 8.59.   Download the 
 
 This file contains all the objects referenced in the video and document. 
 
+## PeopleTools Projects 8.60
+* X_PT3_E026_SPARKY_860 (PeopleTools Project folder)  
+* X_PT3_E026_SPARKY_860.zip (Zipped PeopleTools Project folder)  
+
 ## PeopleTools Projects 8.59
 * X_PT3_E026_SPARKY_859 (PeopleTools Project folder)  
 * X_PT3_E026_SPARKY_859.zip (Zipped PeopleTools Project folder)  
